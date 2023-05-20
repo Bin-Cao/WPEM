@@ -1,2 +1,0 @@
-The accurately determined volume fraction in % :
-[64.87549186277221, 1.0773891497275947, 34.0471189875002]
