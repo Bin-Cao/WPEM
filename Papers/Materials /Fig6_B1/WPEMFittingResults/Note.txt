@@ -1,0 +1,11 @@
+Name : 24-4-1
+
+文件后缀是软件执行时间，无实际意义
+
+
+拟合的
+峰 2theta-int : em_profile_cal_2023.4.20_20.35
+背底2theta-int ： upbackground_2023.4.20_20.35
+拟合峰的峰位 ： 两个晶系所有的峰 em_cal_out_2023.4.20_20.35 里 mu_i， Rp,Pwp 结果拟合R因子
+alpha 相 的峰位 ：System0 里的 mu_i 第一行末尾是精修的晶格参数，请保留五位
+beta 相 的峰位 ：System1 里的 mu_i 第一行末尾是精修的晶格参数，请保留五位
