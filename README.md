@@ -1,5 +1,12 @@
-# WPEM
-A X-ray Diffraction Refinement Software
+
+<h1 align="center">
+  <a href=""><img src="https://github.com/Bin-Cao/WPEM/assets/86995074/3b05f104-364e-4cd2-9d21-f40b77e0ef10" alt="Bgolearn" width="150"></a>
+  <br>
+  WPEM
+  <br>
+</h1>
+
+Whole Pattern fitting of powder X-ray diffraction by Expectation Maximum (WPEM) package![image](https://github.com/Bin-Cao/WPEM/assets/86995074/7777d9a7-078d-41b0-bd47-45bd6c9427d1)
 
 My master dissertation give a detailed introduction of the beta version of WPEM : see [Link](https://github.com/Bin-Cao/MPhil_SHU)
 
