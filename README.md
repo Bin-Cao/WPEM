@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <a href=""><img src="https://github.com/Bin-Cao/WPEM/assets/86995074/3b05f104-364e-4cd2-9d21-f40b77e0ef10" alt="Bgolearn" width="250"></a>
+  <a href=""><img src="https://github.com/Bin-Cao/WPEM/assets/86995074/3b05f104-364e-4cd2-9d21-f40b77e0ef10" alt="WPEM" width="250"></a>
   <br>
   <br>
 </h1>
