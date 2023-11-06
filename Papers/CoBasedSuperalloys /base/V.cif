@@ -1,0 +1,238 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-18 17:37:37 +0200 (Thu, 18 Feb 2016) $
+#$Revision: 176729 $
+#$URL: svn://www.crystallography.net/cod/cif/1/50/64/1506411.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1506411
+loop_
+_publ_author_name
+'Colligan, Marek'
+'Lee, Yongjae'
+'Vogt, Thomas'
+'Celestian, Aaron J.'
+'Parise, John B.'
+'Marshall, William G.'
+'Hriljac, Joseph A.'
+_publ_section_title
+;
+ High-pressure neutron diffraction study of superhydrated natrolite.
+;
+_journal_issue                   39
+_journal_name_full               'The journal of physical chemistry. B'
+_journal_page_first              18223
+_journal_page_last               18225
+_journal_paper_doi               10.1021/jp054142x
+_journal_volume                  109
+_journal_year                    2005
+_chemical_formula_sum            V
+_chemical_formula_weight         50.94
+_space_group_IT_number           229
+_symmetry_cell_setting           cubic
+_symmetry_space_group_name_Hall  '-I 4 2 3'
+_symmetry_space_group_name_H-M   'I m -3 m'
+_cell_angle_alpha                90.0
+_cell_angle_beta                 90.0
+_cell_angle_gamma                90.0
+_cell_formula_units_Z            2
+_cell_length_a                   3.0273(7)
+_cell_length_b                   3.0273
+_cell_length_c                   3.0273
+_cell_volume                     27.744(6)
+_pd_phase_name                   V
+_cod_data_source_file            jp054142xsi20050822_082317.cif
+_cod_data_source_block           VANCAN_phase_2
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+
+'_geom_bond_publ_flag' value 'N' changed to 'n' according to
+/home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary named
+'cif_core.dic' version 2.4.1 from 2010-06-29 (14
+times).
+
+'_geom_angle_publ_flag' value 'N' changed to 'n' according
+to /home/saulius/struct/CIF-dictionaries/cif_core.dic dictionary
+named 'cif_core.dic' version 2.4.1 from 2010-06-29 (28 times).
+
+Automatic conversion script
+Id: cif_fix_values 1715 2011-07-08 13:25:40Z adriana 
+;
+_cod_original_cell_volume        27.743(21)
+_cod_database_code               1506411
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 +x,+y,+z
+2 +z,+x,+y
+3 +y,+z,+x
+4 +x,+y,-z
+5 -z,+x,+y
+6 +y,-z,+x
+7 -z,+x,-y
+8 -y,-z,+x
+9 +y,-z,-x
+10 -x,+y,-z
+11 -z,-x,+y
+12 +x,-y,-z
+13 +y,+x,+z
+14 +z,+y,+x
+15 +x,+z,+y
+16 +y,+x,-z
+17 -z,+y,+x
+18 +x,-z,+y
+19 -z,+y,-x
+20 -x,-z,+y
+21 +x,-z,-y
+22 -y,+x,-z
+23 -z,-y,+x
+24 +y,-x,-z
+-1 -x,-y,-z
+-2 -z,-x,-y
+-3 -y,-z,-x
+-4 -x,-y,+z
+-5 +z,-x,-y
+-6 -y,+z,-x
+-7 +z,-x,+y
+-8 +y,+z,-x
+-9 -y,+z,+x
+-10 +x,-y,+z
+-11 +z,+x,-y
+-12 -x,+y,+z
+-13 -y,-x,-z
+-14 -z,-y,-x
+-15 -x,-z,-y
+-16 -y,-x,+z
+-17 +z,-y,-x
+-18 -x,+z,-y
+-19 +z,-y,+x
+-20 +x,+z,-y
+-21 -x,+z,+y
+-22 +y,-x,+z
+-23 +z,+y,-x
+-24 -y,+x,+z
+101 +x+1/2,+y+1/2,+z+1/2
+102 +z+1/2,+x+1/2,+y+1/2
+103 +y+1/2,+z+1/2,+x+1/2
+104 +x+1/2,+y+1/2,-z+1/2
+105 -z+1/2,+x+1/2,+y+1/2
+106 +y+1/2,-z+1/2,+x+1/2
+107 -z+1/2,+x+1/2,-y+1/2
+108 -y+1/2,-z+1/2,+x+1/2
+109 +y+1/2,-z+1/2,-x+1/2
+110 -x+1/2,+y+1/2,-z+1/2
+111 -z+1/2,-x+1/2,+y+1/2
+112 +x+1/2,-y+1/2,-z+1/2
+113 +y+1/2,+x+1/2,+z+1/2
+114 +z+1/2,+y+1/2,+x+1/2
+115 +x+1/2,+z+1/2,+y+1/2
+116 +y+1/2,+x+1/2,-z+1/2
+117 -z+1/2,+y+1/2,+x+1/2
+118 +x+1/2,-z+1/2,+y+1/2
+119 -z+1/2,+y+1/2,-x+1/2
+120 -x+1/2,-z+1/2,+y+1/2
+121 +x+1/2,-z+1/2,-y+1/2
+122 -y+1/2,+x+1/2,-z+1/2
+123 -z+1/2,-y+1/2,+x+1/2
+124 +y+1/2,-x+1/2,-z+1/2
+-101 -x+1/2,-y+1/2,-z+1/2
+-102 -z+1/2,-x+1/2,-y+1/2
+-103 -y+1/2,-z+1/2,-x+1/2
+-104 -x+1/2,-y+1/2,+z+1/2
+-105 +z+1/2,-x+1/2,-y+1/2
+-106 -y+1/2,+z+1/2,-x+1/2
+-107 +z+1/2,-x+1/2,+y+1/2
+-108 +y+1/2,+z+1/2,-x+1/2
+-109 -y+1/2,+z+1/2,+x+1/2
+-110 +x+1/2,-y+1/2,+z+1/2
+-111 +z+1/2,+x+1/2,-y+1/2
+-112 -x+1/2,+y+1/2,+z+1/2
+-113 -y+1/2,-x+1/2,-z+1/2
+-114 -z+1/2,-y+1/2,-x+1/2
+-115 -x+1/2,-z+1/2,-y+1/2
+-116 -y+1/2,-x+1/2,+z+1/2
+-117 +z+1/2,-y+1/2,-x+1/2
+-118 -x+1/2,+z+1/2,-y+1/2
+-119 +z+1/2,-y+1/2,+x+1/2
+-120 +x+1/2,+z+1/2,-y+1/2
+-121 -x+1/2,+z+1/2,+y+1/2
+-122 +y+1/2,-x+1/2,+z+1/2
+-123 +z+1/2,+y+1/2,-x+1/2
+-124 -y+1/2,+x+1/2,+z+1/2
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_thermal_displace_type
+_atom_site_U_iso_or_equiv
+_atom_site_symmetry_multiplicity
+V V 0.0 0.0 0.0 1.0 Uiso 0.025 2
+loop_
+_atom_type_symbol
+_atom_type_number_in_cell
+V_ 2.0
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+V V V 70.529(19) 101_444 101_445 n
+V V V 70.529(9) 101_444 101_454 n
+V V V 109.471(9) 101_444 101_455 n
+V V V 70.529(9) 101_444 101_544 n
+V V V 109.471(9) 101_444 101_545 n
+V V V 109.471(19) 101_444 101_554 n
+V V V 180.0 101_444 101_555 n
+V V V 109.471(9) 101_445 101_454 n
+V V V 70.529(9) 101_445 101_455 n
+V V V 109.471(9) 101_445 101_544 n
+V V V 70.529(9) 101_445 101_545 n
+V V V 179.972 101_445 101_554 n
+V V V 109.471(19) 101_445 101_555 n
+V V V 70.529(19) 101_454 101_455 n
+V V V 109.471(19) 101_454 101_544 n
+V V V 179.972 101_454 101_545 n
+V V V 70.529(9) 101_454 101_554 n
+V V V 109.471(9) 101_454 101_555 n
+V V V 179.972 101_455 101_544 n
+V V V 109.471(19) 101_455 101_545 n
+V V V 109.471(9) 101_455 101_554 n
+V V V 70.529(9) 101_455 101_555 n
+V V V 70.529(19) 101_544 101_545 n
+V V V 70.529(9) 101_544 101_554 n
+V V V 109.471(9) 101_544 101_555 n
+V V V 109.471(9) 101_545 101_554 n
+V V V 70.529(9) 101_545 101_555 n
+V V V 70.529(19) 101_554 101_555 n
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+V V 3.0273(8) 1_455 n
+V V 3.0273(8) 1_545 n
+V V 3.0273(8) 1_554 n
+V V 3.0273(8) 1_556 n
+V V 3.0273(8) 1_565 n
+V V 3.0273(8) 1_655 n
+V V 2.6217(5) 101_444 n
+V V 2.6217(5) 101_445 n
+V V 2.6217(5) 101_454 n
+V V 2.6217(5) 101_455 n
+V V 2.6217(5) 101_544 n
+V V 2.6217(5) 101_545 n
+V V 2.6217(5) 101_554 n
+V V 2.6217(5) 101_555 n
