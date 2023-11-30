@@ -1,0 +1,410 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-03-19 08:04:14 +0200 (Sat, 19 Mar 2016) $
+#$Revision: 178361 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/4/00/00/4000005.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4000005
+loop_
+_publ_author_name
+'Kleinke, Holger'
+'Waldeck, Markus'
+'G\"utlich, Philipp'
+_publ_contact_author
+;
+Holger Kleinke
+Department of Chemistry
+University of Waterloo
+Waterloo, ON, Canada N2L 3G1
+;
+_publ_contact_author_email       kleinke@uwaterloo.ca
+_publ_contact_author_fax         '(1) 519 746-0435'
+_publ_contact_author_phone       '(1) 519 888-4567 ext. 3577'
+_publ_section_title
+;
+ Ti~2~Sn~3~: A Novel Binary Intermetallic Phase, Prepared by
+ Chemical Transport at Intermediate Temperature
+;
+_journal_coden_ASTM              CMATEX
+_journal_issue                   8
+_journal_name_full               'Chemistry of Materials'
+_journal_page_first              2219
+_journal_page_last               2224
+_journal_paper_doi               10.1021/cm000131z
+_journal_volume                  12
+_journal_year                    2000
+_chemical_formula_sum            'Sn3 Ti2'
+_chemical_formula_weight         451.87
+_space_group_IT_number           64
+_symmetry_space_group_name_Hall  '-C 2ac 2'
+_symmetry_space_group_name_H-M   'C m c a'
+_atom_sites_solution_hydrogens   geom
+_atom_sites_solution_primary     direct
+_atom_sites_solution_secondary   difmap
+_audit_creation_method           SHELXL
+_cell_angle_alpha                90.00
+_cell_angle_beta                 90.00
+_cell_angle_gamma                90.00
+_cell_formula_units_Z            8
+_cell_length_a                   5.9556(4)
+_cell_length_b                   19.964(2)
+_cell_length_c                   7.0281(5)
+_cell_measurement_temperature    293(2)
+_cell_volume                     835.6(1)
+_computing_structure_refinement  'SHELXL-93 (Sheldrick, 1993)'
+_computing_structure_solution    'SHELXS-86 (Sheldrick, 1990)'
+_diffrn_ambient_temperature      293(2)
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_source         'fine-focus sealed tube'
+_diffrn_radiation_type           MoK\a
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents  0.0281
+_diffrn_reflns_av_sigmaI/netI    0.0201
+_diffrn_reflns_limit_h_max       7
+_diffrn_reflns_limit_h_min       -7
+_diffrn_reflns_limit_k_max       28
+_diffrn_reflns_limit_k_min       -28
+_diffrn_reflns_limit_l_max       9
+_diffrn_reflns_limit_l_min       -9
+_diffrn_reflns_number            5957
+_diffrn_reflns_theta_max         30.25
+_diffrn_reflns_theta_min         3.55
+_exptl_absorpt_coefficient_mu    21.110
+_exptl_absorpt_correction_T_max  0.34
+_exptl_absorpt_correction_T_min  0.26
+_exptl_absorpt_correction_type   numerical
+_exptl_crystal_density_diffrn    7.184
+_exptl_crystal_F_000             1552
+_refine_diff_density_max         0.612
+_refine_diff_density_min         -0.712
+_refine_diff_density_rms         0.170
+_refine_ls_extinction_coef       0.00080(4)
+_refine_ls_extinction_expression Fc^*^=kFc[1+0.001xFc^2^\l^3^/sin(2\q)]^-1/4^
+_refine_ls_extinction_method     SHELXL
+_refine_ls_goodness_of_fit_all   0.785
+_refine_ls_goodness_of_fit_obs   0.852
+_refine_ls_hydrogen_treatment    ?
+_refine_ls_matrix_type           full
+_refine_ls_number_parameters     30
+_refine_ls_number_reflns         636
+_refine_ls_number_restraints     0
+_refine_ls_restrained_S_all      0.785
+_refine_ls_restrained_S_obs      0.852
+_refine_ls_R_factor_all          0.0183
+_refine_ls_R_factor_obs          0.0116
+_refine_ls_shift/esd_max         -0.001
+_refine_ls_shift/esd_mean        0.000
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details
+'w=1/[\s^2^(Fo^2^)+(0.0170P)^2^+0.0000P] where P=(Fo^2^+2Fc^2^)/3'
+_refine_ls_weighting_scheme      calc
+_refine_ls_wR_factor_all         0.0256
+_refine_ls_wR_factor_obs         0.0248
+_reflns_number_observed          515
+_reflns_number_total             636
+_reflns_observed_criterion       >2sigma(I)
+_cod_data_source_file            cm000131z.cif
+_cod_data_source_block           Ti2Sn3
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+
+'_refine_ls_weighting_scheme' value 'calc
+w=1/[\s^2^(Fo^2^)+(0.0170P)^2^+0.0000P] where P=(Fo^2^+2Fc^2^)/3' was
+changed to 'calc'. New tag '_refine_ls_weighting_details' was
+created. The value of the new tag was set to
+'w=1/[\s^2^(Fo^2^)+(0.0170P)^2^+0.0000P] where P=(Fo^2^+2Fc^2^)/3'.
+
+Automatic conversion script
+Id: cif_fix_values 3143 2015-03-26 13:38:13Z robertas 
+;
+_cod_original_sg_symbol_H-M      'C M C A'
+_cod_original_formula_sum        Ti2Sn3
+_cod_database_code               4000005
+loop_
+_symmetry_equiv_pos_as_xyz
+'x, y, z'
+'-x, -y+1/2, z+1/2'
+'-x, y+1/2, -z+1/2'
+'x, -y, -z'
+'x+1/2, y+1/2, z'
+'-x+1/2, -y+1, z+1/2'
+'-x+1/2, y+1, -z+1/2'
+'x+1/2, -y+1/2, -z'
+'-x, -y, -z'
+'x, y-1/2, -z-1/2'
+'x, -y-1/2, z-1/2'
+'-x, y, z'
+'-x+1/2, -y+1/2, -z'
+'x+1/2, y, -z-1/2'
+'x+1/2, -y, z-1/2'
+'-x+1/2, y+1/2, z'
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_23
+_atom_site_aniso_U_13
+_atom_site_aniso_U_12
+Sn1 0.0120(2) 0.00453(12) 0.00750(13) 0.00194(9) 0.000 0.000
+Sn2 0.0098(2) 0.00770(12) 0.00414(12) -0.00147(9) 0.000 0.000
+Sn3 0.0078(2) 0.00603(11) 0.00674(11) 0.000 0.00206(12) 0.000
+Ti1 0.0089(5) 0.0043(3) 0.0040(3) 0.0007(2) 0.000 0.000
+Ti2 0.0081(4) 0.0042(3) 0.0042(3) 0.000 -0.0008(3) 0.000
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_thermal_displace_type
+_atom_site_occupancy
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_group
+Sn1 Sn 0.0000 0.276100(13) 0.07434(4) 0.00802(8) Uani 1 d S .
+Sn2 Sn 0.0000 0.121389(13) -0.07325(4) 0.00721(8) Uani 1 d S .
+Sn3 Sn 0.2500 0.020653(12) 0.2500 0.00687(8) Uani 1 d S .
+Ti1 Ti 0.0000 0.41946(3) 0.04820(9) 0.0057(2) Uani 1 d S .
+Ti2 Ti 0.2500 0.16427(3) 0.2500 0.00550(14) Uani 1 d S .
+loop_
+_atom_type_symbol
+_atom_type_description
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+Ti Ti 0.2776 0.4457 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+Sn Sn -0.6537 1.4246 'International Tables Vol C Tables 4.2.6.8 and 6.1.1.4'
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_3
+_geom_angle_publ_flag
+Ti1 Sn1 Ti2 141.356(13) . . ?
+Ti1 Sn1 Ti2 141.356(13) . 14_456 ?
+Ti2 Sn1 Ti2 60.536(13) . 14_456 ?
+Ti1 Sn1 Ti2 63.32(2) . 2_554 ?
+Ti2 Sn1 Ti2 151.159(11) . 2_554 ?
+Ti2 Sn1 Ti2 111.768(11) 14_456 2_554 ?
+Ti1 Sn1 Ti2 63.32(2) . 13 ?
+Ti2 Sn1 Ti2 111.768(11) . 13 ?
+Ti2 Sn1 Ti2 151.158(11) 14_456 13 ?
+Ti2 Sn1 Ti2 60.139(9) 2_554 13 ?
+Ti1 Sn1 Sn2 54.11(2) . 2 ?
+Ti2 Sn1 Sn2 99.163(12) . 2 ?
+Ti2 Sn1 Sn2 99.163(12) 14_456 2 ?
+Ti2 Sn1 Sn2 109.644(14) 2_554 2 ?
+Ti2 Sn1 Sn2 109.644(14) 13 2 ?
+Ti1 Sn1 Sn2 157.76(2) . . ?
+Ti2 Sn1 Sn2 54.307(10) . . ?
+Ti2 Sn1 Sn2 54.307(10) 14_456 . ?
+Ti2 Sn1 Sn2 97.791(14) 2_554 . ?
+Ti2 Sn1 Sn2 97.791(14) 13 . ?
+Sn2 Sn1 Sn2 148.130(11) 2 . ?
+Ti1 Sn2 Ti2 148.295(4) 2_554 . ?
+Ti1 Sn2 Ti2 148.295(4) 2_554 14_456 ?
+Ti2 Sn2 Ti2 63.040(9) . 14_456 ?
+Ti1 Sn2 Ti1 88.69(2) 2_554 13_455 ?
+Ti2 Sn2 Ti1 122.498(15) . 13_455 ?
+Ti2 Sn2 Ti1 61.994(14) 14_456 13_455 ?
+Ti1 Sn2 Ti1 88.69(2) 2_554 13 ?
+Ti2 Sn2 Ti1 61.994(14) . 13 ?
+Ti2 Sn2 Ti1 122.498(15) 14_456 13 ?
+Ti1 Sn2 Ti1 148.70(3) 13_455 13 ?
+Ti1 Sn2 Sn1 56.61(2) 2_554 2_554 ?
+Ti2 Sn2 Sn1 115.054(14) . 2_554 ?
+Ti2 Sn2 Sn1 115.054(14) 14_456 2_554 ?
+Ti1 Sn2 Sn1 102.231(13) 13_455 2_554 ?
+Ti1 Sn2 Sn1 102.231(13) 13 2_554 ?
+Ti1 Sn2 Sn1 125.60(2) 2_554 . ?
+Ti2 Sn2 Sn1 57.391(13) . . ?
+Ti2 Sn2 Sn1 57.391(13) 14_456 . ?
+Ti1 Sn2 Sn1 103.407(13) 13_455 . ?
+Ti1 Sn2 Sn1 103.407(13) 13 . ?
+Sn1 Sn2 Sn1 68.997(8) 2_554 . ?
+Ti1 Sn3 Ti1 130.12(3) 2 13 ?
+Ti1 Sn3 Ti2 65.058(14) 2 . ?
+Ti1 Sn3 Ti2 65.058(14) 13 . ?
+Ti1 Sn3 Ti1 70.16(2) 2 10_556 ?
+Ti1 Sn3 Ti1 158.51(2) 13 10_556 ?
+Ti2 Sn3 Ti1 134.493(12) . 10_556 ?
+Ti1 Sn3 Ti1 158.51(2) 2 5_545 ?
+Ti1 Sn3 Ti1 70.16(2) 13 5_545 ?
+Ti2 Sn3 Ti1 134.493(12) . 5_545 ?
+Ti1 Sn3 Ti1 91.01(2) 10_556 5_545 ?
+Ti1 Sn3 Sn3 58.322(8) 2 14_456 ?
+Ti1 Sn3 Sn3 121.678(8) 13 14_456 ?
+Ti2 Sn3 Sn3 90.0 . 14_456 ?
+Ti1 Sn3 Sn3 58.902(8) 10_556 14_456 ?
+Ti1 Sn3 Sn3 121.098(8) 5_545 14_456 ?
+Ti1 Sn3 Sn3 121.678(7) 2 14_556 ?
+Ti1 Sn3 Sn3 58.322(7) 13 14_556 ?
+Ti2 Sn3 Sn3 90.0 . 14_556 ?
+Ti1 Sn3 Sn3 121.098(8) 10_556 14_556 ?
+Ti1 Sn3 Sn3 58.902(8) 5_545 14_556 ?
+Sn3 Sn3 Sn3 180.00(2) 14_456 14_556 ?
+Sn2 Ti1 Sn3 146.131(11) 2 2_554 ?
+Sn2 Ti1 Sn3 146.131(11) 2 13 ?
+Sn3 Ti1 Sn3 63.355(15) 2_554 13 ?
+Sn2 Ti1 Sn1 69.29(2) 2 . ?
+Sn3 Ti1 Sn1 117.92(2) 2_554 . ?
+Sn3 Ti1 Sn1 117.92(2) 13 . ?
+Sn2 Ti1 Sn3 74.63(2) 2 10_566 ?
+Sn3 Ti1 Sn3 109.84(2) 2_554 10_566 ?
+Sn3 Ti1 Sn3 78.282(14) 13 10_566 ?
+Sn1 Ti1 Sn3 131.90(2) . 10_566 ?
+Sn2 Ti1 Sn3 74.63(2) 2 5_455 ?
+Sn3 Ti1 Sn3 78.282(14) 2_554 5_455 ?
+Sn3 Ti1 Sn3 109.84(2) 13 5_455 ?
+Sn1 Ti1 Sn3 131.90(2) . 5_455 ?
+Sn3 Ti1 Sn3 62.20(2) 10_566 5_455 ?
+Sn2 Ti1 Ti2 119.58(2) 2 2_554 ?
+Sn3 Ti1 Ti2 57.97(2) 2_554 2_554 ?
+Sn3 Ti1 Ti2 88.83(2) 13 2_554 ?
+Sn1 Ti1 Ti2 59.99(2) . 2_554 ?
+Sn3 Ti1 Ti2 165.71(3) 10_566 2_554 ?
+Sn3 Ti1 Ti2 117.872(9) 5_455 2_554 ?
+Sn2 Ti1 Ti2 119.58(2) 2 13 ?
+Sn3 Ti1 Ti2 88.83(2) 2_554 13 ?
+Sn3 Ti1 Ti2 57.97(2) 13 13 ?
+Sn1 Ti1 Ti2 59.99(2) . 13 ?
+Sn3 Ti1 Ti2 117.872(9) 10_566 13 ?
+Sn3 Ti1 Ti2 165.71(3) 5_455 13 ?
+Ti2 Ti1 Ti2 58.096(14) 2_554 13 ?
+Sn2 Ti1 Sn2 82.432(14) 2 13_455 ?
+Sn3 Ti1 Sn2 69.366(8) 2_554 13_455 ?
+Sn3 Ti1 Sn2 131.22(2) 13 13_455 ?
+Sn1 Ti1 Sn2 74.526(13) . 13_455 ?
+Sn3 Ti1 Sn2 130.86(2) 10_566 13_455 ?
+Sn3 Ti1 Sn2 70.090(9) 5_455 13_455 ?
+Ti2 Ti1 Sn2 55.084(8) 2_554 13_455 ?
+Ti2 Ti1 Sn2 111.27(2) 13 13_455 ?
+Sn2 Ti1 Sn2 82.432(14) 2 13 ?
+Sn3 Ti1 Sn2 131.22(2) 2_554 13 ?
+Sn3 Ti1 Sn2 69.366(8) 13 13 ?
+Sn1 Ti1 Sn2 74.526(13) . 13 ?
+Sn3 Ti1 Sn2 70.090(9) 10_566 13 ?
+Sn3 Ti1 Sn2 130.86(2) 5_455 13 ?
+Ti2 Ti1 Sn2 111.27(2) 2_554 13 ?
+Ti2 Ti1 Sn2 55.084(8) 13 13 ?
+Sn2 Ti1 Sn2 148.70(3) 13_455 13 ?
+Sn2 Ti1 Ti1 118.94(3) 2 9_565 ?
+Sn3 Ti1 Ti1 55.60(2) 2_554 9_565 ?
+Sn3 Ti1 Ti1 55.60(2) 13 9_565 ?
+Sn1 Ti1 Ti1 171.78(4) . 9_565 ?
+Sn3 Ti1 Ti1 54.24(2) 10_566 9_565 ?
+Sn3 Ti1 Ti1 54.24(2) 5_455 9_565 ?
+Ti2 Ti1 Ti1 113.11(3) 2_554 9_565 ?
+Ti2 Ti1 Ti1 113.11(3) 13 9_565 ?
+Sn2 Ti1 Ti1 105.651(13) 13_455 9_565 ?
+Sn2 Ti1 Ti1 105.651(13) 13 9_565 ?
+Sn2 Ti2 Sn2 145.01(3) . 14_556 ?
+Sn2 Ti2 Sn3 72.507(13) . . ?
+Sn2 Ti2 Sn3 72.507(13) 14_556 . ?
+Sn2 Ti2 Sn1 145.50(2) . 14_556 ?
+Sn2 Ti2 Sn1 68.301(9) 14_556 14_556 ?
+Sn3 Ti2 Sn1 139.097(9) . 14_556 ?
+Sn2 Ti2 Sn1 68.301(9) . . ?
+Sn2 Ti2 Sn1 145.50(2) 14_556 . ?
+Sn3 Ti2 Sn1 139.097(9) . . ?
+Sn1 Ti2 Sn1 81.81(2) 14_556 . ?
+Sn2 Ti2 Sn1 118.060(6) . 2 ?
+Sn2 Ti2 Sn1 76.729(8) 14_556 2 ?
+Sn3 Ti2 Sn1 113.617(12) . 2 ?
+Sn1 Ti2 Sn1 68.232(11) 14_556 2 ?
+Sn1 Ti2 Sn1 76.423(12) . 2 ?
+Sn2 Ti2 Sn1 76.729(8) . 13 ?
+Sn2 Ti2 Sn1 118.060(6) 14_556 13 ?
+Sn3 Ti2 Sn1 113.617(12) . 13 ?
+Sn1 Ti2 Sn1 76.423(12) 14_556 13 ?
+Sn1 Ti2 Sn1 68.232(11) . 13 ?
+Sn1 Ti2 Sn1 132.77(2) 2 13 ?
+Sn2 Ti2 Ti2 121.520(4) . 14_556 ?
+Sn2 Ti2 Ti2 58.480(4) 14_556 14_556 ?
+Sn3 Ti2 Ti2 90.0 . 14_556 ?
+Sn1 Ti2 Ti2 59.732(6) 14_556 14_556 ?
+Sn1 Ti2 Ti2 120.268(6) . 14_556 ?
+Sn1 Ti2 Ti2 120.070(4) 2 14_556 ?
+Sn1 Ti2 Ti2 59.930(4) 13 14_556 ?
+Sn2 Ti2 Ti2 58.480(4) . 14_456 ?
+Sn2 Ti2 Ti2 121.520(4) 14_556 14_456 ?
+Sn3 Ti2 Ti2 90.0 . 14_456 ?
+Sn1 Ti2 Ti2 120.268(6) 14_556 14_456 ?
+Sn1 Ti2 Ti2 59.732(6) . 14_456 ?
+Sn1 Ti2 Ti2 59.930(4) 2 14_456 ?
+Sn1 Ti2 Ti2 120.070(4) 13 14_456 ?
+Ti2 Ti2 Ti2 180.00(5) 14_556 14_456 ?
+Sn2 Ti2 Ti1 97.33(2) . 2 ?
+Sn2 Ti2 Ti1 62.922(10) 14_556 2 ?
+Sn3 Ti2 Ti1 56.97(2) . 2 ?
+Sn1 Ti2 Ti1 111.783(14) 14_556 2 ?
+Sn1 Ti2 Ti1 116.930(10) . 2 ?
+Sn1 Ti2 Ti1 56.689(14) 2 2 ?
+Sn1 Ti2 Ti1 170.38(2) 13 2 ?
+Ti2 Ti2 Ti1 119.048(7) 14_556 2 ?
+Ti2 Ti2 Ti1 60.952(7) 14_456 2 ?
+Sn2 Ti2 Ti1 62.922(10) . 13 ?
+Sn2 Ti2 Ti1 97.33(2) 14_556 13 ?
+Sn3 Ti2 Ti1 56.97(2) . 13 ?
+Sn1 Ti2 Ti1 116.930(10) 14_556 13 ?
+Sn1 Ti2 Ti1 111.783(14) . 13 ?
+Sn1 Ti2 Ti1 170.38(2) 2 13 ?
+Sn1 Ti2 Ti1 56.689(14) 13 13 ?
+Ti2 Ti2 Ti1 60.952(7) 14_556 13 ?
+Ti2 Ti2 Ti1 119.048(7) 14_456 13 ?
+Ti1 Ti2 Ti1 113.94(3) 2 13 ?
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_distance
+_geom_bond_site_symmetry_2
+_geom_bond_publ_flag
+Sn1 Ti1 2.8679(8) . ?
+Sn1 Ti2 2.9539(6) . ?
+Sn1 Ti2 2.9539(6) 14_456 ?
+Sn1 Ti2 2.9716(4) 2_554 ?
+Sn1 Ti2 2.9716(4) 13 ?
+Sn1 Sn2 3.2129(4) 2 ?
+Sn1 Sn2 3.2582(5) . ?
+Sn2 Ti1 2.7827(7) 2_554 ?
+Sn2 Ti2 2.8479(3) . ?
+Sn2 Ti2 2.8479(3) 14_456 ?
+Sn2 Ti1 3.0925(3) 13_455 ?
+Sn2 Ti1 3.0925(3) 13 ?
+Sn2 Sn1 3.2129(4) 2_554 ?
+Sn3 Ti1 2.8352(6) 2 ?
+Sn3 Ti1 2.8352(6) 13 ?
+Sn3 Ti2 2.8671(7) . ?
+Sn3 Ti1 2.8827(6) 10_556 ?
+Sn3 Ti1 2.8827(6) 5_545 ?
+Sn3 Sn3 2.9778(2) 14_456 ?
+Sn3 Sn3 2.9778(2) 14_556 ?
+Ti1 Sn2 2.7827(7) 2 ?
+Ti1 Sn3 2.8352(6) 2_554 ?
+Ti1 Sn3 2.8352(6) 13 ?
+Ti1 Sn3 2.8827(6) 10_566 ?
+Ti1 Sn3 2.8827(6) 5_455 ?
+Ti1 Ti2 3.0665(7) 2_554 ?
+Ti1 Ti2 3.0665(7) 13 ?
+Ti1 Sn2 3.0925(3) 13_455 ?
+Ti1 Sn2 3.0925(3) 13 ?
+Ti1 Ti1 3.2864(14) 9_565 ?
+Ti2 Sn2 2.8479(3) 14_556 ?
+Ti2 Sn1 2.9539(6) 14_556 ?
+Ti2 Sn1 2.9715(4) 2 ?
+Ti2 Sn1 2.9716(4) 13 ?
+Ti2 Ti2 2.9778(2) 14_556 ?
+Ti2 Ti2 2.9778(2) 14_456 ?
+Ti2 Ti1 3.0665(7) 2 ?
+Ti2 Ti1 3.0665(7) 13 ?
