@@ -18,3 +18,53 @@ WPEM specializes in determining the complex crystal structures and decoupling he
 
 
 ![WechatIMG954](https://github.com/Bin-Cao/WPEM/assets/86995074/65b44e3f-257b-4ea7-8b54-174a1359449f)
+
+
+# cite
+    Cao, B. Whole Pattern fitting of powder X-ray diffraction by Expectation Maximum algorithm, <https://github.com/Bin-Cao/WPEM> (2022).
+    
+``` javascript
+PyWPEM/
+    __init__.py
+    WPEM.py
+    Extinction/
+        __init__.py
+        CifReader.py
+        XRDpre.py
+        wyckoff/
+          __init__.py
+          wyckoff_dict.py 
+    Background/
+        __init__.py
+        BacDeduct.py
+    EMBraggOpt/
+        __init__.py
+        EMBraggSolver.py
+        BraggLawDerivation.py
+        WPEMFuns/
+            __init__.py
+            SolverFuns.py
+    Refinement/
+        __init__.py
+        VolumeFractionDertermination.py
+    Amorphous/
+        fitting/
+            __init__.py
+            AmorphousFitting.py
+        QuantitativeCalculation/
+            __init__.py
+            AmorphousRDF.py
+    DecomposePlot/
+        __init__.py
+        plot.py
+    XRDSimulation/
+        __init__.py
+        Simulation.py
+        DiffractionGrometry/
+            __init__.py
+            atom.py
+    Raman/
+        Decompose/
+            __init__.py
+            RamanFitting.py
+``` 
