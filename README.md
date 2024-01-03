@@ -81,7 +81,7 @@ PyWPEM/
     StructureOpt/
             __init__.py
             SiteOpt.py
-    GraphStructure/
+    GraphStructure/ （Crystal2Graph NN）
             __init__.py
             graph.py
 ``` 
