@@ -22,7 +22,8 @@ Our development journey commenced in 2020, driven by a commitment to patience an
 
 # cite
     Cao, B. Whole Pattern fitting of powder X-ray diffraction by Expectation Maximum algorithm, <https://github.com/Bin-Cao/WPEM> (2022).
-    
+
+Organization & spectroscopy informatics studies : see https://github.com/WPEM
 ``` javascript
 PyWPEM/
     __init__.py
