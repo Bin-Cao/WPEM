@@ -13,9 +13,9 @@ The official release version will meet with you as soon as possible
 
 ---
 
-WPEM specializes in determining the complex crystal structures and decoupling heavily overlapped Bragg peaks from mixed X-rays and polycrystalline powder diffraction. We have acquired several excellent research results including quantitative detection of similar structures with tiny differences i.e., α phase and α' phase of Ti-Ni alloy, separating contributions of amorphous and crystalline in Polybutene, etc. We are willing to cooperate extensively and provide assistance with X-ray diffraction pattern refinement. Please contact us if you have any queries or need help: bcao686@connect.hkust-gz.edu.cn (Mr. CAO Bin).
+WPEM specializes in elucidating intricate crystal structures and untangling heavily overlapping Bragg peaks in mixed X-rays and polycrystalline powder diffraction. Our endeavors have yielded noteworthy research outcomes, including the precise detection of subtle structural differences, such as the α phase and α' phase of Ti-Ni alloy, the differentiation of amorphous and crystalline contributions in Polybutene, the investigation of complex solid solution structures, and the computation of scattering information within organized processes. We are eager to engage in extensive collaborations and offer support in X-ray diffraction pattern refinement. For inquiries or assistance, please don't hesitate to contact us at bcao686@connect.hkust-gz.edu.cn (Mr. CAO Bin).
 
-
+Our development journey commenced in 2020, driven by a commitment to patience and perfection in our work. Upon the publication of our final article, we plan to freely share all our code promptly.
 
 ![WechatIMG954](https://github.com/Bin-Cao/WPEM/assets/86995074/65b44e3f-257b-4ea7-8b54-174a1359449f)
 
