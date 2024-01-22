@@ -7,6 +7,10 @@
 
 Whole Pattern fitting of powder X-ray diffraction by Expectation Maximum (WPEM) package!
 
+# cite
+    Cao, B. Whole Pattern fitting of powder X-ray diffraction by Expectation Maximum algorithm, <https://github.com/Bin-Cao/WPEM> (2022).
+
+
 My master dissertation give a detailed introduction of the beta version of WPEM : see [Link](https://github.com/Bin-Cao/MPhil_SHU)
 
 The official release version will meet with you as soon as possible
@@ -15,13 +19,11 @@ The official release version will meet with you as soon as possible
 
 WPEM specializes in elucidating intricate crystal structures and untangling heavily overlapping Bragg peaks in mixed X-rays and polycrystalline powder diffraction. Our endeavors have yielded noteworthy research outcomes, including the precise detection of subtle structural differences, such as the α phase and α' phase of Ti-Ni alloy, the differentiation of amorphous and crystalline contributions in Polybutene, the investigation of complex solid solution structures, and the computation of scattering information within organized processes. We are eager to engage in extensive collaborations and offer support in X-ray diffraction pattern refinement. For inquiries or assistance, please don't hesitate to contact us at bcao686@connect.hkust-gz.edu.cn (Dr. CAO Bin).
 
-Our development journey commenced in 2020, driven by a commitment to patience and perfection in our work. Upon the publication of our final article, we plan to freely share all our code promptly.
+Our development journey commenced in 2020, driven by a commitment to patience and perfection in our work. Upon the publication of our final paper, we plan to freely share all our code promptly.
 
 ![WechatIMG954](https://github.com/Bin-Cao/WPEM/assets/86995074/65b44e3f-257b-4ea7-8b54-174a1359449f)
 
 
-# cite
-    Cao, B. Whole Pattern fitting of powder X-ray diffraction by Expectation Maximum algorithm, <https://github.com/Bin-Cao/WPEM> (2022).
 
 Organization & spectroscopy informatics studies : see https://github.com/WPEM
 ``` javascript
