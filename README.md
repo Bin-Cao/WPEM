@@ -8,7 +8,7 @@
 Whole Pattern fitting of powder X-ray diffraction by Expectation Maximum (WPEM) package!
 
 # cite
-    Cao, B. Whole Pattern fitting of powder X-ray diffraction by Expectation Maximum algorithm, <https://github.com/Bin-Cao/WPEM> (2022).
+    CAO, Bin (2024). Whole Pattern fitting of powder X-ray diffraction by Expectation Maximum algorithm. figshare. Software. https://doi.org/10.6084/m9.figshare.25060175.v1.
 
 
 My master dissertation give a detailed introduction of the beta version of WPEM : see [Link](https://github.com/Bin-Cao/MPhil_SHU)
