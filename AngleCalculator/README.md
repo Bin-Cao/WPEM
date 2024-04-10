@@ -10,4 +10,5 @@ You can access the software via the provided [**One drive link**](https://hkustg
 
 ### intro
 
-![Uploading Screenshot 2024-04-10 at 11.38.56.png…]()
+
+![Screenshot 2024-04-10 at 11 39 51](https://github.com/Bin-Cao/WPEM/assets/86995074/faddcfd7-ba1a-487f-ab53-b13b7e062176)
