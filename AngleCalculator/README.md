@@ -8,6 +8,10 @@ You can access the software via the provided [**One drive link**](https://hkustg
 
 **Please email me your name, organization, in order to receive the password. Email name: Application for acquisition/AngCal** 
 
+### Contact Information:
+**Mr. Cao Bin**
+Email: bcao686@connect.hkust-gz.edu.cn
+
 ### intro
 
 
