@@ -1,2 +1,0 @@
-The estimated volume fraction in % :
-[87.97002295136733, 12.02997704863267]

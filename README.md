@@ -15,6 +15,18 @@ My master dissertation give a detailed introduction of the beta version of WPEM 
 
 The official release version will meet with you as soon as possible
 
+### papers
+- `Chem Eng J 2024` [A Li-rich layered oxide cathode with remarkable capacity and prolonged cycle life](https://www.sciencedirect.com/science/article/pii/S1385894724030092) Tongxing Lei, **Bin Cao**, Wenbo Fu, Xiuling Shi, Zhiyu Ding, Qi Zhang, Junwei Wu, Kaikai Li, Tong-Yi Zhang,
+∂
+- `MD 2024` [Active Learning Accelerates the Discovery of High Strength and High Ductility Lead-Free Solder Alloys](https://doi.org/10.1016/j.matdes.2024.112921) **B Cao**, T Su, S Yu, T Li, T Zhang, Z Dong, TY Zhang
+
+- `JMRT 2024` [Machine learning-assisted composition design of W-free Co-based superalloys with high γ′-solvus temperature and low density](https://www.sciencedirect.com/science/article/pii/S2238785424000401?via%3Dihub)Linlin Sun, **Bin Cao**, Qingshuang Ma, Qiuzhi Gao, Jiahao Luo, Minglong Gong, Jing Bai, Huijun Li 
+
+- `Nano Energy 2023` [Orthorhombic (Ru, Mn)2O3: A superior electrocatalyst for acidic oxygen evolution reaction](https://www.sciencedirect.com/science/article/pii/S2211285523005645?via%3Dihub)Yin Qin, **Bin Cao**, Xiao-Ye Zhou, Zhuorui Xiao, Hanxiang Zhou, Zhenyi Zhao, Yibo Weng, Jianshuai Lv, Yang Liu, Yan-Bing He, Feiyu Kang, Kaikai Li, Tong-Yi Zhang
+
+- `Materials 2023` [Fabricated High-Strength, Low-Elastic Modulus Biomedical Ti-24Nb-4Zr-8Sn Alloy via Powder Metallurgy](https://www.mdpi.com/1996-1944/16/10/3845)Guo, A.X.Y., **Cao, B.**, Wang, Z., Ma, X., Cao, S.C. 
+
+
 ---
 
 WPEM specializes in elucidating intricate crystal structures and untangling heavily overlapping Bragg peaks in mixed X-rays and polycrystalline powder diffraction. Our endeavors have yielded noteworthy research outcomes, including the precise detection of subtle structural differences, such as the α phase and α' phase of Ti-Ni alloy, the differentiation of amorphous and crystalline contributions in Polybutene, the investigation of complex solid solution structures, and the computation of scattering information within organized processes. We are eager to engage in extensive collaborations and offer support in X-ray diffraction pattern refinement. For inquiries or assistance, please don't hesitate to contact us at bcao686@connect.hkust-gz.edu.cn (Dr. CAO Bin).

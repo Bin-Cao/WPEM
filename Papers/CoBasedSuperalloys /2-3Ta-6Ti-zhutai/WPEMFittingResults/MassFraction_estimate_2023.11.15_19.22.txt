@@ -1,2 +1,0 @@
-The estimated Mass fraction in % :
-[19.15703807367809, 80.8429619263219]
