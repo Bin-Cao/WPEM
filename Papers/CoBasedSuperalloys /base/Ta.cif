@@ -1,0 +1,69 @@
+#------------------------------------------------------------------------------
+#$Date: 2018-09-27 07:13:35 +0300 (Thu, 27 Sep 2018) $
+#$Revision: 211196 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/1/53/90/1539086.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1539086
+loop_
+_publ_author_name
+'Shamrai, V.F.'
+'Warhulska, A.V.'
+'Arakcheeva, A.V.'
+'Grinevich, V.V.'
+_publ_section_title
+;
+ Magnetic properties and crystal structure of Ta beta
+;
+_journal_name_full               Kristallografiya
+_journal_page_first              1025
+_journal_page_last               1030
+_journal_volume                  49
+_journal_year                    2004
+_chemical_formula_sum            Ta30
+_space_group_IT_number           113
+_symmetry_space_group_name_Hall  'P -4 2ab'
+_symmetry_space_group_name_H-M   'P -4 21 m'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            1
+_cell_length_a                   10.184
+_cell_length_b                   10.184
+_cell_length_c                   5.306
+_cell_volume                     550.306
+_citation_journal_id_ASTM        KRISAJ
+_cod_data_source_file            Shamrai_KRISAJ_2004_579.cif
+_cod_data_source_block           Ta30
+_cod_original_cell_volume        550.3057
+_cod_database_code               1539086
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+y,-x,-z
+-x,-y,z
+-y,x,-z
+x+1/2,-y+1/2,-z
+-y+1/2,-x+1/2,z
+-x+1/2,y+1/2,-z
+y+1/2,x+1/2,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ta3 Ta 0.034 0.127 0.252 1 0.0
+Ta5 Ta 0.821 0.321 0.006 1 0.0
+Ta2 Ta 0.76 0.068 0.233 1 0.0
+Ta4 Ta 0.604 0.104 0.751 1 0.0
+Ta1 Ta 0.5 0 0.24 1 0.0
+Ta6 Ta 0.321 0.179 0.49 1 0.0
