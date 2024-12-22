@@ -15,7 +15,6 @@ My master dissertation give a detailed introduction of the beta version of WPEM 
 
 The official release version will meet with you as soon as possible
 
-- [WPEM book](https://www.overleaf.com/read/pfybccppvzjm#162054) The WPEM Project Manual
 
 ### WPEM papers
 - `Chem Eng J 2024` [A Li-rich layered oxide cathode with remarkable capacity and prolonged cycle life](https://www.sciencedirect.com/science/article/pii/S1385894724030092) Tongxing Lei, **Bin Cao**, Wenbo Fu, Xiuling Shi, Zhiyu Ding, Qi Zhang, Junwei Wu, Kaikai Li, Tong-Yi Zhang,
