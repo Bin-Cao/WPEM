@@ -4,9 +4,9 @@ It provides options to select the type of mission: lattice plane or lattice vect
 The angle is calculated based on the given inputs and displayed.
 
 ### software Sharing:
-You can access the software via the provided [**One drive link**](https://hkustgz-my.sharepoint.com/:f:/g/personal/bcao686_connect_hkust-gz_edu_cn/Esv5WpSu3a9DimZG3oU8rmIB3F0clwQw66Q4Bhr7BJoOsQ?e=7BDeCg) 
+You can access the software via the provided [**One drive link**](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy81ZDg2MjYyMzg0NzBiNDllL0VzSHh0VEVzbWlGRWxBMEVfT1BzLW5RQmlrMUZZNkFOSVBOQ09iVVdVcE5NWXc%5FZT1mT0VDbGs&id=5D8626238470B49E%21s31b5f1c19a2c4421940d04fce3ecfa74&cid=5D8626238470B49E) 
 
-**Please email me your name, organization, in order to receive the password. Email name: Application for acquisition/AngCal** 
+
 
 ### Contact Information:
 **Mr. Cao Bin**
